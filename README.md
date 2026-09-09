@@ -2,45 +2,53 @@
 
 ## Data & AI Engineer
 
-Je construis des solutions Data & IA orientées usage métier, avec un intérêt particulier pour **Python, Machine Learning et Data Engineering**.
+Data & AI Engineer en fin de Mastère Intelligence Artificielle, orienté **Python, Machine Learning et Data Engineering**.
 
-Mon expérience récente couvre notamment :
-
-- intégration de modèles de prévision ;
-- développement d'applications Data en Python / Streamlit ;
-- traitement et exploitation de données ;
-- automatisation de processus métier ;
-- analyse de données avec Spark ;
-- projets NLP et IA appliquée.
+Je développe des solutions Data/IA qui vont du traitement de données jusqu'à l'application métier : prévision, automatisation, dashboards et outils d'aide à la décision.
 
 ### Compétences principales
 
-**Langages**  
-Python · SQL · Scala
+**Python · SQL · Machine Learning · Data Engineering**
 
-**Data & Machine Learning**  
-Pandas · scikit-learn · XGBoost · PySpark · Apache Spark · NLP
+Pandas · scikit-learn · XGBoost · PySpark / Apache Spark · Streamlit · Flask · REST API · PostgreSQL · MySQL · IBM i / DB2 · AWS · Docker · Git
 
-**Applications & données**  
-Streamlit · Flask · REST API · PostgreSQL · MySQL · IBM i / DB2
+### Projets sélectionnés
 
-**Cloud & outils**  
-AWS · Docker · Git · GitHub
+#### Sales Forecasting with XGBoost
+Projet portfolio de prévision des ventes multi-horizon **M+1 à M+6**, avec données synthétiques, feature engineering temporel, XGBoost, authentification Streamlit et backtesting temporel (MAE, RMSE, sMAPE, wMAPE).
 
-### Projets à découvrir
+- Repository: https://github.com/Hanedev/sales-forecasting-xgboost-demo
+- Live demo: https://sale-forcasting.streamlit.app/
+- Demo login: `demo / demo123`
 
-- **Agent Analyste de Crise** — analyse de tweets, détection de pics, KPI, dashboard Streamlit et intégration Mistral.
-- **Analyse Big Data avec Spark** — traitement des données du San Francisco Fire Department avec PySpark.
-- **Classification de commentaires** — classification de sentiments sur le dataset IMDB avec spaCy, NLTK, Word2Vec et scikit-learn.
-- **Prévision des ventes** — projet professionnel autour de XGBoost, de la prévision multi-horizon et d'applications métier Data.
+#### Agent Analyste de Crise
+Analyse de données issues de réseaux sociaux : KPI, détection de pics, comptes et hashtags influents, génération de sorties structurées et dashboard Streamlit.
 
-### Parcours
+- Repository: https://github.com/Hanedev/datathon_agent_analyste
+
+#### Big Data — Apache Spark
+Analyse des données du San Francisco Fire Department avec PySpark / Apache Spark et production de KPI.
+
+- Repository: https://github.com/Hanedev/Big_data
+
+#### NLP — IMDB Sentiment Classification
+Classification de sentiments sur des avis IMDB avec spaCy, NLTK, Word2Vec et scikit-learn.
+
+- Repository: https://github.com/Hanedev/Classification_commentaire
+
+### Expérience récente
+
+**UbiPharm / DII — Alternant Chef de projet Data & Intelligence Artificielle**
+
+Travail autour de la prévision des ventes, de l'intégration de modèles Machine Learning, du traitement de données et du développement d'applications Python / Streamlit destinées à des usages opérationnels.
+
+### Formation
 
 - Mastère Intelligence Artificielle — Nexa Digital School, 2024–2026
 - Cycle ingénieur Data Science & Intelligence Artificielle, 2022–2024
 - Master Systèmes d'Information, 2018–2020
 
-### Me contacter
+### Contact
 
-- LinkedIn : https://www.linkedin.com/in/hane-abdoul-aziz
-- GitHub : https://github.com/Hanedev
+- LinkedIn: https://www.linkedin.com/in/hane-abdoul-aziz
+- GitHub: https://github.com/Hanedev
